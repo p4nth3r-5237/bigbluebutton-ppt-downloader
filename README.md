@@ -5,7 +5,7 @@ This tools will help you to download the ppt of code tantra website.
 
 I am currently pursuing my btech from  lpu( Lovely Professional University ) so our class is going on online mode.
 So one day i am doing recon i find that when i drop down of ppt into new tab it is giving me svg image and last it is giving the page number
-when i change that i saw that the image changes to something else then i changes again i saw that we can access al the page. so first i checked that the image is downloadable or not i run cmd wget and checked that is downloadable so i thought why i can't make the script of this so i have to run the script and all page is downloaded then i start making the script and finally i created.
+when i change that i saw that the image changes to something else then i changes again i saw that we can access all the page. so first i checked that the image is downloadable or not i run cmd wget and checked that is downloadable so i thought why i can't make the script of this so i have to run the script and all page is downloaded then i start making the script and finally i created.
 
 #### way to download
 
