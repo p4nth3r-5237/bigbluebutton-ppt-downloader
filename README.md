@@ -1,4 +1,4 @@
-# codetantra-ppt-downloader
+bhaiya time mile# codetantra-ppt-downloader
 This tool is made in bash. Motive of this tool is to download the ppt from code tantra.
 
 This tools will help you to download the ppt of code tantra website.
@@ -23,7 +23,7 @@ after installation all dependecies now time came to clone the repo run the below
 ```
 git clone https://github.com/anoopyadavan/codetantra-ppt-downloader.git
 ```
-Now move into the codetantra-ppt-downloader
+Now move into the codetantra-ppt-downloader directory
 ```
 cd codetantra-ppt-downloader
 ```
