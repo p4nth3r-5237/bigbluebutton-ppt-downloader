@@ -42,6 +42,8 @@ make sure that the number is removed from the last and there will be slash at th
 now press enter to execute the script and wait untill it complete.
 after completeion of execution of script you will get message of completion.
 
+![Watch the video](https://youtu.be/FAJEhTwGz8Y)
+
 If you are facing any error then feel free to raise issue.
 
 You can also follow me on [Twitter](https://twitter.com/anoopyadav5237/) [YouTube](https://www.youtube.com/oblivion5237)
