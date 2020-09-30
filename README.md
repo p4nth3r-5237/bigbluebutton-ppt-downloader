@@ -42,7 +42,7 @@ make sure that the number is removed from the last and there will be slash at th
 now press enter to execute the script and wait untill it complete.
 after completeion of execution of script you will get message of completion.
 
-[![Watch the video](https://j.gifs.com/WLGjgo.gif)](https://youtu.be/FAJEhTwGz8Y)
+[![Watch the video](https://j.gifs.com/k83D56.gif)](https://youtu.be/FAJEhTwGz8Y)
 
 If you are facing any error then feel free to raise issue.
 
