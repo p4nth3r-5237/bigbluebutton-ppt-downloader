@@ -1,4 +1,4 @@
-bhaiya time mile# codetantra-ppt-downloader
+# bigbluebutton-ppt-downloader
 This tool is made in bash. Motive of this tool is to download the ppt from code tantra.
 
 This tools will help you to download the ppt of code tantra website.
